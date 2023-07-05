@@ -24,6 +24,6 @@
 
 .list a:hover,
 .list a.active {
-  color: var(--color-primary-800);
+  color: white;
   text-decoration: underline;
 }
